@@ -14,3 +14,5 @@
 | SMA Connector | 1 | [AliExpress](https://www.aliexpress.com/item/3256804056009500.html) | $1.39 |
 | 5.8GHz RHCP Antenna | 1 | [AliExpress](https://www.aliexpress.com/item/3256803558054206.html) | $4.34 |
 | RX5808 5.8GHz receiver module | 1 | [AliExpress](https://www.aliexpress.com/item/3256808477588223.html) | $23.01 |
+| XIAO RP2040 | 1 | Bin | $0.00 |
+| I2C OLED | 1 | Already have | $0.00 | 
